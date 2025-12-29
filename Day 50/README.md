@@ -1,8 +1,5 @@
 # Day 50: MASTER Kubernetes Ingress | PART 2 | Path-Based Routing on Amazon EKS with AWS ALB | CKA 2025
 
-## Video reference for Day 50 is the following:
-
-[![Watch the video](https://img.youtube.com/vi/4d0dkj6Vc70/maxresdefault.jpg)](https://www.youtube.com/watch?v=4d0dkj6Vc70&ab_channel=CloudWithVarJosh)
 
 ---
 ## ⭐ Support the Project  
