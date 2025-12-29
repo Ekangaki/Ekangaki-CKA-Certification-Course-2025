@@ -30,7 +30,7 @@ spec:
               <head><title>iPhone Users</title></head>
               <body>
                 <h1>iPhone Users</h1>
-                <p>Welcome to Cloud With VarJosh</p>
+                <p>Welcome to Cloud With Ekangaki</p>
               </body>
             </html>' > /iphone/index.html && cd / && python3 -m http.server 5678
         ports:
