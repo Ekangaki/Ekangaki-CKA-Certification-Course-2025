@@ -30,7 +30,7 @@ spec:
               <head><title>Desktop Users</title></head>
               <body>
                 <h1>Desktop Users</h1>
-                <p>Welcome to Cloud With VarJosh</p>
+                <p>Welcome to Cloud With Ekangaki</p>
               </body>
             </html>' > /index.html && python3 -m http.server 5678
         ports:
