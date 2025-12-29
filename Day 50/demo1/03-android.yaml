@@ -30,7 +30,7 @@ spec:
               <head><title>Android Users</title></head>
               <body>
                 <h1>Android Users</h1>
-                <p>Welcome to Cloud With VarJosh</p>
+                <p>Welcome to Cloud With Ekangaki</p>
               </body>
             </html>' > /android/index.html && cd / && python3 -m http.server 5678
         ports:
